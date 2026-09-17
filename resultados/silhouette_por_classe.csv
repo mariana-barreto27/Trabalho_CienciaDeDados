@@ -1,0 +1,33 @@
+analise,representacao,classe,silhouette_medio
+Temporal + espectral,Características completas,Healthy,0.5633911411735956
+Temporal + espectral,Características completas,Bearing,0.05646064115530932
+Temporal + espectral,Características completas,Flywheel,0.00023077514102850798
+Temporal + espectral,Características completas,LIV,0.1036629249613667
+Temporal + espectral,Características completas,LOV,-0.11840589633169568
+Temporal + espectral,Características completas,NRV,0.14452900199379567
+Temporal + espectral,Características completas,Piston,0.004364261653157741
+Temporal + espectral,Características completas,Riderbelt,0.31827237857689245
+Temporal + espectral,PC1 e PC2,Healthy,0.6489656876907515
+Temporal + espectral,PC1 e PC2,Bearing,-0.02632050295927397
+Temporal + espectral,PC1 e PC2,Flywheel,-0.02226006521565377
+Temporal + espectral,PC1 e PC2,LIV,0.045790744304767095
+Temporal + espectral,PC1 e PC2,LOV,-0.3121230196772686
+Temporal + espectral,PC1 e PC2,NRV,0.1752082776157257
+Temporal + espectral,PC1 e PC2,Piston,0.005287697621090306
+Temporal + espectral,PC1 e PC2,Riderbelt,0.3704190484518199
+Temporal + espectral + Wavelet,Características completas,Healthy,0.5111948855305495
+Temporal + espectral + Wavelet,Características completas,Bearing,0.12056926950162322
+Temporal + espectral + Wavelet,Características completas,Flywheel,0.06244908247063488
+Temporal + espectral + Wavelet,Características completas,LIV,0.25584730706766984
+Temporal + espectral + Wavelet,Características completas,LOV,-0.13985900707954593
+Temporal + espectral + Wavelet,Características completas,NRV,0.2008934173554089
+Temporal + espectral + Wavelet,Características completas,Piston,0.0544072104692037
+Temporal + espectral + Wavelet,Características completas,Riderbelt,0.3825958640021578
+Temporal + espectral + Wavelet,PC1 e PC2,Healthy,0.4297126354103133
+Temporal + espectral + Wavelet,PC1 e PC2,Bearing,0.04411709608904916
+Temporal + espectral + Wavelet,PC1 e PC2,Flywheel,-0.004909845831484724
+Temporal + espectral + Wavelet,PC1 e PC2,LIV,0.278689256800994
+Temporal + espectral + Wavelet,PC1 e PC2,LOV,-0.36069838978948243
+Temporal + espectral + Wavelet,PC1 e PC2,NRV,0.215361669513175
+Temporal + espectral + Wavelet,PC1 e PC2,Piston,0.028480327315638206
+Temporal + espectral + Wavelet,PC1 e PC2,Riderbelt,0.2850374369306995

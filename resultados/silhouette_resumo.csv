@@ -1,0 +1,5 @@
+analise,representacao,silhouette_medio,percentual_negativo
+Temporal + espectral,Características completas,0.1340631535404313,31.0
+Temporal + espectral,PC1 e PC2,0.11062098347899477,38.77777777777778
+Temporal + espectral + Wavelet,Características completas,0.1810122536647127,23.833333333333336
+Temporal + espectral + Wavelet,PC1 e PC2,0.11447377330486276,35.22222222222222

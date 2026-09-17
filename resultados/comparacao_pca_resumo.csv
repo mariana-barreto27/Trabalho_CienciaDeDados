@@ -1,0 +1,3 @@
+analise,numero_caracteristicas,variancia_PC1_PC2_percentual,componentes_para_90_percentual
+Temporal + espectral,6,75.18016485169285,3
+Temporal + espectral + Wavelet,12,76.85609942851413,4

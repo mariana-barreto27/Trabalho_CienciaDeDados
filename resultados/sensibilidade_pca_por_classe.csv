@@ -1,0 +1,97 @@
+cenario,representacao,classe,silhouette_medio
+Temporal + espectral,2 PCs,Healthy,0.6489656876907515
+Temporal + espectral,2 PCs,Bearing,-0.02632050295927397
+Temporal + espectral,2 PCs,Flywheel,-0.02226006521565377
+Temporal + espectral,2 PCs,LIV,0.045790744304767095
+Temporal + espectral,2 PCs,LOV,-0.3121230196772686
+Temporal + espectral,2 PCs,NRV,0.1752082776157257
+Temporal + espectral,2 PCs,Piston,0.005287697621090306
+Temporal + espectral,2 PCs,Riderbelt,0.3704190484518199
+Temporal + espectral,3 PCs,Healthy,0.5768088162761162
+Temporal + espectral,3 PCs,Bearing,0.02455734043533625
+Temporal + espectral,3 PCs,Flywheel,-0.005415889758969027
+Temporal + espectral,3 PCs,LIV,0.0896820711781245
+Temporal + espectral,3 PCs,LOV,-0.2033491747086044
+Temporal + espectral,3 PCs,NRV,0.15965162648364917
+Temporal + espectral,3 PCs,Piston,0.008035405861714397
+Temporal + espectral,3 PCs,Riderbelt,0.3269975249040441
+Temporal + espectral,4 PCs,Healthy,0.5642103481617103
+Temporal + espectral,4 PCs,Bearing,0.04988131209527323
+Temporal + espectral,4 PCs,Flywheel,0.003592739093392707
+Temporal + espectral,4 PCs,LIV,0.10268558169705257
+Temporal + espectral,4 PCs,LOV,-0.16559428796375114
+Temporal + espectral,4 PCs,NRV,0.14483193720909068
+Temporal + espectral,4 PCs,Piston,0.01168351012661127
+Temporal + espectral,4 PCs,Riderbelt,0.33157542464518425
+Temporal + espectral,Completo,Healthy,0.5633911411735956
+Temporal + espectral,Completo,Bearing,0.05646064115530932
+Temporal + espectral,Completo,Flywheel,0.00023077514102850798
+Temporal + espectral,Completo,LIV,0.1036629249613667
+Temporal + espectral,Completo,LOV,-0.11840589633169568
+Temporal + espectral,Completo,NRV,0.14452900199379567
+Temporal + espectral,Completo,Piston,0.004364261653157741
+Temporal + espectral,Completo,Riderbelt,0.31827237857689245
+Com Wavelet,2 PCs,Healthy,0.4297126354103133
+Com Wavelet,2 PCs,Bearing,0.04411709608904916
+Com Wavelet,2 PCs,Flywheel,-0.004909845831484724
+Com Wavelet,2 PCs,LIV,0.278689256800994
+Com Wavelet,2 PCs,LOV,-0.36069838978948243
+Com Wavelet,2 PCs,NRV,0.215361669513175
+Com Wavelet,2 PCs,Piston,0.028480327315638206
+Com Wavelet,2 PCs,Riderbelt,0.2850374369306995
+Com Wavelet,3 PCs,Healthy,0.5816488040519397
+Com Wavelet,3 PCs,Bearing,0.045801333547958276
+Com Wavelet,3 PCs,Flywheel,0.0637252209904598
+Com Wavelet,3 PCs,LIV,0.28851630888299606
+Com Wavelet,3 PCs,LOV,-0.18925878396741017
+Com Wavelet,3 PCs,NRV,0.2620970284748761
+Com Wavelet,3 PCs,Piston,0.0276625893614134
+Com Wavelet,3 PCs,Riderbelt,0.4434726362493765
+Com Wavelet,4 PCs,Healthy,0.5447744294374351
+Com Wavelet,4 PCs,Bearing,0.11046087563866887
+Com Wavelet,4 PCs,Flywheel,0.05135678004477831
+Com Wavelet,4 PCs,LIV,0.2714008797851505
+Com Wavelet,4 PCs,LOV,-0.16775664521560948
+Com Wavelet,4 PCs,NRV,0.2248467343407274
+Com Wavelet,4 PCs,Piston,0.04368126162874241
+Com Wavelet,4 PCs,Riderbelt,0.41770385662139403
+Com Wavelet,Completo,Healthy,0.5111948855305495
+Com Wavelet,Completo,Bearing,0.12056926950162322
+Com Wavelet,Completo,Flywheel,0.06244908247063488
+Com Wavelet,Completo,LIV,0.25584730706766984
+Com Wavelet,Completo,LOV,-0.13985900707954593
+Com Wavelet,Completo,NRV,0.2008934173554089
+Com Wavelet,Completo,Piston,0.0544072104692037
+Com Wavelet,Completo,Riderbelt,0.3825958640021578
+"Com Wavelet, sem D3",2 PCs,Healthy,0.4324203568918483
+"Com Wavelet, sem D3",2 PCs,Bearing,0.04496461852247114
+"Com Wavelet, sem D3",2 PCs,Flywheel,0.034153405357845064
+"Com Wavelet, sem D3",2 PCs,LIV,0.289965492444187
+"Com Wavelet, sem D3",2 PCs,LOV,-0.3902721425223782
+"Com Wavelet, sem D3",2 PCs,NRV,0.24780852472870044
+"Com Wavelet, sem D3",2 PCs,Piston,0.039522523659885754
+"Com Wavelet, sem D3",2 PCs,Riderbelt,0.276994337185208
+"Com Wavelet, sem D3",3 PCs,Healthy,0.5719391502888272
+"Com Wavelet, sem D3",3 PCs,Bearing,0.05061974742107673
+"Com Wavelet, sem D3",3 PCs,Flywheel,0.09204043445663133
+"Com Wavelet, sem D3",3 PCs,LIV,0.30758576770633067
+"Com Wavelet, sem D3",3 PCs,LOV,-0.18849706077008013
+"Com Wavelet, sem D3",3 PCs,NRV,0.28985432127590366
+"Com Wavelet, sem D3",3 PCs,Piston,0.03157380741347481
+"Com Wavelet, sem D3",3 PCs,Riderbelt,0.41403578454664003
+"Com Wavelet, sem D3",4 PCs,Healthy,0.5478927032168197
+"Com Wavelet, sem D3",4 PCs,Bearing,0.11176638044081437
+"Com Wavelet, sem D3",4 PCs,Flywheel,0.06253005703574059
+"Com Wavelet, sem D3",4 PCs,LIV,0.2805378529158303
+"Com Wavelet, sem D3",4 PCs,LOV,-0.16753993665100317
+"Com Wavelet, sem D3",4 PCs,NRV,0.24278400716572884
+"Com Wavelet, sem D3",4 PCs,Piston,0.05521872918064227
+"Com Wavelet, sem D3",4 PCs,Riderbelt,0.4012594158403089
+"Com Wavelet, sem D3",Completo,Healthy,0.5133397812349995
+"Com Wavelet, sem D3",Completo,Bearing,0.12082218001013434
+"Com Wavelet, sem D3",Completo,Flywheel,0.07179210963858304
+"Com Wavelet, sem D3",Completo,LIV,0.2612621802118551
+"Com Wavelet, sem D3",Completo,LOV,-0.14225193682654663
+"Com Wavelet, sem D3",Completo,NRV,0.2139339646468448
+"Com Wavelet, sem D3",Completo,Piston,0.0627246833043161
+"Com Wavelet, sem D3",Completo,Riderbelt,0.3649119985877366
